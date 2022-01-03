@@ -31,6 +31,6 @@ I am a passionate self-taught programmer from Indonesia.
 
 <br />
 
-![Hasbiak github stats](https://github-readme-stats.vercel.app/api?username=hasbiak&show_icons=true&hide_border=true)
+![Hasbi Alwi Kusmana github stats](https://github-readme-stats.vercel.app/api?username=hasbialwikusmana&show_icons=true&hide_border=true)
 
 *PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
