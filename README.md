@@ -16,7 +16,7 @@
 I am a passionate self-taught programmer from Indonesia.
 - 🌱 I’m currently learning Javascript
 - 💬 Ask me about anything [here](https://wa.me/6289684811299)
-- 📫 How to reach me: hasbialwik@gmail.com <br>
+- 📫 How to reach me: hasbialwi70gmail.com <br>
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact :<br>
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler <br>
@@ -26,7 +26,7 @@ I am a passionate self-taught programmer from Indonesia.
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactjs.org/logo-og.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 <br />
