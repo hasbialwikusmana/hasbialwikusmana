@@ -1,34 +1,58 @@
-### Hi there, I'm Hasbi Alwi Kusmana👋
-<a href="https://github.com/hasbialwikusmana">
-  <img align="left" alt="Hasbi Alwi Kusmana Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/hasbialwikusmana/">
-  <img align="left" alt="Hasbi Alwi Kusmana Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/hasbialwi26/">
-  <img align="left" alt="Hasbi Alwi Kusmana Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hasbialwikusmana.hasbialwikusmana" />
 
-<br />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hasbi+Alwi+Kusmana!;" />
+</h1>
 
-### Glad to see you here! 🤩 &nbsp;
+<h3 align="center">A passionate web developer from Indonesia</h3>
 
-I am a passionate self-taught programmer from Indonesia.
-- 🌱 I’m currently learning Javascript
-- 💬 Ask me about anything [here](https://wa.me/6289684811299)
-- 📫 How to reach me: hasbialwi70gmail.com <br>
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact :<br>
-“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler <br>
+<br/>
 
-**Languages and Tools:** &nbsp;
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<div align="center">
 
-<br />
+🌱 I’m currently learning **Javascript, Express Js, Next Js, React Js**
 
-![Hasbi Alwi Kusmana github stats](https://github-readme-stats.vercel.app/api?username=hasbialwikusmana&show_icons=true&hide_border=true)
+📫 How to reach me: **hasbialwi70gmail.com** 
 
-*PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
+🥅 2024 Goals: **Contribute more to Open Source projects**
+
+⚡ Fun fact :<br>
+**“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler** 
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:hasbialwi70@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/hasbialwikusmana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://hasbialwikusmana.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hasbialwikusmana&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=hasbialwikusmana&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-hasbialwikusmana.vercel.app/api/top-langs/?username=hasbialwikusmana&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+
