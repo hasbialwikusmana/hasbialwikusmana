@@ -26,6 +26,10 @@
 
 ![Hasbi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasbialwikusmana&show_icons=true&theme=radical)
 
+### 📊 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasbialwikusmana&theme=radical)
+
 ---
 
 ### 📲 Connect with Me
