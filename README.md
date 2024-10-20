@@ -30,6 +30,10 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasbialwikusmana&theme=radical)
 
+### 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasbialwikusmana&layout=compact&theme=radical)
+
 ---
 
 ### 📲 Connect with Me
