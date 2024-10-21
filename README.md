@@ -9,7 +9,7 @@
 <p align="left">
     🌱 I’m currently learning <strong>React.js</strong> and <strong>Node.js</strong> <br>
     💼 I’m looking for opportunities to work on interesting projects <br>
-    📫 How to reach me: hasbialwikusmana@example.com <br>
+    📫 How to reach me: hasbialwi70@gmail.com <br>
     🌐 Portfolio: <a href="https://mrcode.my.id/">mrcode.my.id</a> <br>
 </p>
 
