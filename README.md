@@ -28,7 +28,7 @@
 
 ### 📊 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasbialwikusmana&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasbialwikusmana&theme=dark)
 
 ### 💻 Most Used Languages
 
