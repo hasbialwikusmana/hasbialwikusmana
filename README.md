@@ -8,8 +8,6 @@
 
 <p align="left">
     🌱 I’m currently learning <strong>React.js</strong> and <strong>Node.js</strong> <br>
-    💼 I’m looking for opportunities to work on interesting projects <br>
-    📫 How to reach me: hasbialwi70@gmail.com <br>
     🌐 Portfolio: <a href="https://hasbialwi.my.id/">hasbialwi.my.id</a> <br>
 </p>
 
@@ -27,8 +25,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasbialwikusmana&theme=dark)
 
----
-
-### 📲 Connect with Me
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hasbialwikusmana/)
 ---
