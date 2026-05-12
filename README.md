@@ -4,13 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hasbi+Alwi+Kusmana!;" />
 </h1>
 
-<h3 align="left">A passionate web developer from Indonesia</h3>
-
-<p align="left">
-    🌱 I’m currently learning <strong>React.js</strong> and <strong>Node.js</strong> <br>
-    🌐 Portfolio: <a href="https://hasbialwi.my.id/">hasbialwi.my.id</a> <br>
-</p>
-
 ---
 
 ### 🔧 Technologies & Tools
