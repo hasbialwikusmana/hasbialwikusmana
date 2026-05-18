@@ -7,6 +7,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 
-### 📊 GitHub Streak
+### 📊 Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasbialwikusmana&theme=dark)
