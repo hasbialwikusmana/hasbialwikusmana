@@ -9,4 +9,4 @@
 
 ### 📊 Streak
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasbialwikusmana&theme=dark)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasbialwikusmana&theme=dark)
