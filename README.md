@@ -8,48 +8,39 @@ Building fast, scalable, and user-friendly web applications.
 
 <br>
 
-React • Next.js • JavaScript • PHP • Express.js • PostgreSQL
+<p>
+  <img src="https://streak-stats.demolab.com?user=hasbialwikusmana&theme=transparent&hide_border=true" />
+</p>
 
 </div>
 
----
-
-### About
+## About
 
 I'm a website developer who enjoys turning ideas into clean, responsive, and modern digital experiences.
 
-Currently focused on frontend engineering, backend architecture, and building products that solve real problems.
+Currently focused on frontend engineering, backend architecture, and building products that solve real-world problems.
 
----
+## Tech Stack
 
-### Current Focus
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,express,nodejs,postgres,mysql" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+## Current Focus
 
 * Modern Web Applications
 * UI Engineering
 * Full-Stack Development
 * Performance Optimization
 
----
+## Contact
 
-### Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hasbialwikusmana&theme=transparent&hide_border=true" />
-</p>
-
----
-
-### Tech
-
-```txt
-Frontend   React · Next.js · JavaScript
-Backend    PHP · Express.js
-Database   PostgreSQL · MySQL
-Tools      Git · GitHub · VS Code · Figma
-```
-
----
-
-### Contact
-
-[hasbialwikusmana@gmail.com](mailto:hasbialwi70@gmail.com)
+📧 [hasbialwi70@gmail.com](mailto:hasbialwi70@gmail.com)
