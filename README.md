@@ -4,6 +4,8 @@ Website Developer from Indonesia.
 
 I enjoy building modern, responsive, and user-friendly web applications using JavaScript and PHP technologies.
 
+---
+
 ## Tech Stack
 
 ```text
@@ -30,6 +32,7 @@ Tools
 ├── VS Code
 └── Figma
 ```
+---
 
 ## Current Focus
 
@@ -38,21 +41,15 @@ Tools
 * Improving UI/UX design skills
 * Exploring full-stack development
 
-## GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hasbialwikusmana&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbialwikusmana&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+---
 
 ## Streak
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=hasbialwikusmana&theme=github-dark-blue&hide_border=true" />
 </p>
+
+---
 
 ## Contact
 
