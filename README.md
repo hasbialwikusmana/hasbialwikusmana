@@ -1,46 +1,49 @@
-<div align="center">
-
 # Hasbi Alwi Kusmana
 
-Website Developer
+Website Developer from Indonesia.
 
-Building fast, scalable, and user-friendly web applications.
+Building software for the web.
 
-<br>
+Currently working with React, Next.js, Express.js, PostgreSQL, and modern web technologies.
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=hasbialwikusmana&theme=transparent&hide_border=true" />
-</p>
+Interested in product development, clean user interfaces, and scalable systems.
 
-</div>
-
-## About
-
-I'm a website developer who enjoys turning ideas into clean, responsive, and modern digital experiences.
-
-Currently focused on frontend engineering, backend architecture, and building products that solve real-world problems.
+---
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,express,nodejs,postgres,mysql" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+```txt
+Frontend   HTML · CSS · JavaScript · React · Next.js 
+Styling    Tailwind CSS · Bootstrap
+Backend    PHP · Express.js
+Database   PostgreSQL · MySQL
+Tools      Git · GitHub · VS Code · Figma
+```
+---
 
 ## Current Focus
 
-* Modern Web Applications
-* UI Engineering
-* Full-Stack Development
-* Performance Optimization
+* Building modern web applications
+* Learning React & Next.js
+* Improving UI/UX design skills
+* Exploring full-stack development
+
+---
+
+## Streak
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=hasbialwikusmana&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
 
 ## Contact
 
-📧 [hasbialwi70@gmail.com](mailto:hasbialwi70@gmail.com)
+* GitHub: @hasbialwikusmana
+* Email: [hasbialwi70@gmail.com](mailto:hasbialwi70@gmail.com)
+
+---
+
+> Building digital experiences, one line of code at a time.
+
