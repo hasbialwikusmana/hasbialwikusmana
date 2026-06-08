@@ -41,17 +41,17 @@ Tools
 ## GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hasbialwikusmana&show_icons=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hasbialwikusmana&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbialwikusmana&layout=compact&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbialwikusmana&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ## Streak
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasbialwikusmana&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=hasbialwikusmana&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ## Contact
