@@ -3,9 +3,7 @@
 Website Developer from Indonesia.
 
 Building software for the web.
-
 Currently working with React, Next.js, Express.js, PostgreSQL, and modern web technologies.
-
 Interested in product development, clean user interfaces, and scalable systems.
 
 ---
