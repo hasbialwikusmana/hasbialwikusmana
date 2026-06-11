@@ -1,4 +1,4 @@
-# Hasbi Alwi Kusmana
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=Hasbi+Alwi+Kusmana" />
 
 Website Developer from Indonesia.
 
