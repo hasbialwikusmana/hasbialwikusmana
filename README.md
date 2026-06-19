@@ -38,7 +38,6 @@ Tools      Git · GitHub · VS Code · Figma · Laragon
 
 ## Contact
 
-* GitHub: @hasbialwikusmana
 * Email: [hasbialwi70@gmail.com](mailto:hasbialwi70@gmail.com)
 
 ---
