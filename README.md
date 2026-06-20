@@ -15,7 +15,7 @@ Frontend   HTML · CSS · JavaScript · React JS · Next JS
 Styling    Tailwind CSS · Bootstrap
 Backend    PHP · Express JS
 Database   PostgreSQL · MySQL
-Tools      Git · GitHub · VS Code · Figma · Laragon
+Tools      Git · GitHub · VS Code · Figma 
 ```
 ---
 
