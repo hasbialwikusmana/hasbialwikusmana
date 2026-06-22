@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=58A6FF&center=false&vCenter=false&repeat=true&width=600&lines=Hasbi+Alwi+Kusmana" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=58A6FF&center=false&vCenter=false&repeat=true&width=600&lines=HASBI+ALWI+KUSMANA" alt="Typing SVG"/>
 
 Website Developer from Indonesia
 
