@@ -13,7 +13,7 @@ Website Developer Indonesia
 ```txt
 Frontend   HTML · CSS · JavaScript · React JS · Next JS 
 Styling    Tailwind CSS 
-Backend    PHP · Express JS
+Backend    Express JS
 Database   PostgreSQL · MySQL
 Tools      Git · GitHub 
 ```
