@@ -12,7 +12,7 @@ Website Developer Indonesia
 
 ```txt
 Frontend   HTML · CSS · JavaScript · React JS · Next JS 
-Styling    Tailwind CSS 
+Styling    Bootstrap . Tailwind CSS 
 Backend    Express JS 
 Database   PostgreSQL · MySQL . Supabase
 Tools      Git · GitHub 
