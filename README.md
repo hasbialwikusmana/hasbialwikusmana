@@ -22,7 +22,7 @@ Tools      Git · GitHub . Vs Code . Figma
 ## Current Focus
 
 * Building modern web applications
-* Learning React & Next.js
+* Learning React.js & Next.js
 * Improving UI/UX design skills
 * Exploring full-stack development
 
