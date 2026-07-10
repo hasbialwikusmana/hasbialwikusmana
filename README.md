@@ -15,7 +15,7 @@ Frontend   HTML · CSS · JavaScript · React JS · Next JS
 Styling    Bootstrap . Tailwind CSS 
 Backend    Express JS . PHP
 Database   PostgreSQL · MySQL . Supabase
-Tools      Git · GitHub . Vs Code
+Tools      Git · GitHub . Vs Code . Figma
 ```
 ---
 
