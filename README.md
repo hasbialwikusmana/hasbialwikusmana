@@ -11,11 +11,8 @@ Website Developer Indonesia
 ## Tech Stack
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mysql,postgres,supabase,git,github,vscode,figma" />
-
 </p>
----
 
 ## Current Focus
 
