@@ -10,13 +10,11 @@ Website Developer Indonesia
 
 ## Tech Stack
 
-```txt
-Frontend   HTML · CSS · JavaScript · React JS · Next JS 
-Styling    Bootstrap . Tailwind CSS 
-Backend    Express.JS . PHP
-Database   PostgreSQL · MySQL . Supabase
-Tools      Git · GitHub . Vs Code . Figma
-```
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mysql,postgres,supabase,git,github,vscode,figma" />
+
+</p>
 ---
 
 ## Current Focus
