@@ -37,5 +37,5 @@ Website Developer Indonesia
 
 ---
 
-> Building digital experiences, one line of code at a time.
+> Turning ideas into fast, modern, and meaningful digital experiences.
 
