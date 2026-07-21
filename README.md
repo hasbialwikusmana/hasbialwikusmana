@@ -11,7 +11,7 @@ Website Developer from Indonesia.
 ## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mysql,postgres,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,mysql,postgres,git,github,vscode" />
 </p>
 
 ## Current Focus
